@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>711823586634-o7jmb8i2m3nhevf1kq7teill104s5bhu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.711823586634-o7jmb8i2m3nhevf1kq7teill104s5bhu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>711823586634-a4a31qutcca478v5d594j7ub96hnfs4c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDcUut5i8JIpQ-22fhGF0R8H9COekCiP4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>711823586634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.jfcvendor</string>
+	<key>PROJECT_ID</key>
+	<string>justforpet-35b4c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>justforpet-35b4c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:711823586634:ios:f55421bbfd635dc6877db3</string>
+</dict>
+</plist>

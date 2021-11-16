@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "711823586634",
+    "project_id": "justforpet-35b4c",
+    "storage_bucket": "justforpet-35b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711823586634:android:ab65b277b38cc449877db3",
+        "android_client_info": {
+          "package_name": "com.jfcvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711823586634-6itnngmmmp0hr0c0emu5pm0mcjspn4kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD64WmvzrrJR6ZD3gEdwNnYa5ctRjYahg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711823586634-6itnngmmmp0hr0c0emu5pm0mcjspn4kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711823586634:android:1c63c0c086054fd1877db3",
+        "android_client_info": {
+          "package_name": "com.jfpuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711823586634-6itnngmmmp0hr0c0emu5pm0mcjspn4kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD64WmvzrrJR6ZD3gEdwNnYa5ctRjYahg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711823586634-6itnngmmmp0hr0c0emu5pm0mcjspn4kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
