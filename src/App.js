@@ -21,12 +21,14 @@ import MyProfile from './module/profile/MyProfile';
 import MyDoctorProfile from './module/profile/MyDoctorProfile';
 import AuthContextProvider from './services/authProvider';
 import MyAppointments from './module/myAppointments/MyAppointments';
+import MyOrders from './module/myOrders/MyOrders';
 import BookingDetail from './module/myAppointments/BookingDetail';
 import AssignDoctor from './module/myAppointments/AssignDoctor';
 import DoctorAppointment from './module/myAppointments/DoctorAppointment';
 import AppointmentDetail from './module/myAppointments/AppointmentDetail';
 import BookAppointments from './module/myAppointments/BookAppointments';
 import AddTimeSlotDialog from './module/profile/AddTimeSlotDialog';
+import OrderDetails from './module/myOrders/OrderDetails'
 import {Chat} from './module/chat/Chat';
 import BankAccountDetail from './module/bankAccount/BankAccountDetail';
 import ServiceProvider from './module/service/ServiceProvider';
@@ -140,9 +142,19 @@ const App = () => {
                 component={MyAppointments}
                 options={{headerShown: false}}
               />
+                <Stack.Screen
+                name="MyOrders"
+                component={MyOrders}
+                options={{headerShown: false}}
+              />
               <Stack.Screen
                 name="BookingDetail"
                 component={BookingDetail}
+                options={{headerShown: false}}
+              />
+               <Stack.Screen
+                name="OrderDetails"
+                component={OrderDetails}
                 options={{headerShown: false}}
               />
               <Stack.Screen

@@ -28,6 +28,7 @@ import {
     SURFACE_4,
     SURFACE_5,
     SURFACE_6,
+    SURFACE_7,
     ADD_ICON
 } from '../../images';
 import Network from '../../network/Network';
@@ -88,6 +89,12 @@ const categoryDataDoctor = [
         color: ITEM_5,
         title: 'Products',
         desc: 'Your products Store',
+    },
+    {
+        image: SURFACE_7,
+        color: ITEM_2,
+        title: 'My Orders',
+        desc: 'Manage all your Orders!',
     },
 ];
 
@@ -227,6 +234,9 @@ const MyDashboard = props => {
                     navigation.navigate('Vaccination');
                 } 
                 break;
+                case 6:
+                    navigation.navigate('MyOrders');
+                    break;
         }
     };
 
